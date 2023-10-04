@@ -1,0 +1,6 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - Test2.md
+      - Test page.md
